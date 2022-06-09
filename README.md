@@ -1,6 +1,7 @@
 # image-gallery
 이미지 갤러리 구현 데모 - 정혜수
 https://jhs97.github.io/image-gallery/
+(url에 제목이 아닌 html문서명으로 저장하기  img-gallery -> index)
 
 ## 기능소개
 - 하단의 썹네일 이미지를 클릭하면 메인 이미지가 변경되는 간단한 갤러리

@@ -14,3 +14,5 @@ https://jhs97.github.io/image-gallery/
 
 ## 사용 라이브러리
 -jQuery
+
+![image](https://user-images.githubusercontent.com/105402450/172999890-979bb594-a31a-4468-a53a-65d1011c90f0.png)
